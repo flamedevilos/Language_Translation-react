@@ -1,7 +1,7 @@
 # Setting a languages with i18next react-project.
 
 Languages: English, French, German(Deutsch) & Arabic.
-Note: After selecting a language, the site doesn't comeback to default language after refreshing or reloading only if the user select other language. 
+**Note: After selecting a language, the site doesn't comeback to default language after refreshing or reloading only if the user select other language. 
 
 # Getting Started with Create React App
 
