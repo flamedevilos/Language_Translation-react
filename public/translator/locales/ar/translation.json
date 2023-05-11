@@ -1,0 +1,7 @@
+{
+    "Welcome_to_React": "مرحبًا بك في React و React-i18next",
+    "app_title": "عنوان",
+    "language": "اللغة",
+    "welcome_message": "اهلا بكم",
+    "days_since_release": "لقد مرت {{number_of_days}} أيام على إصدار هذا الفيديو"
+}
